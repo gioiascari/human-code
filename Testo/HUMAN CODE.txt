@@ -1,0 +1,23 @@
+HUMAN CODE
+
+start-> Ho fame mi mangio una pizza
+(quadrato)da listino
+(rombo) se sceglie la sua->
+                        (vero)
+                        (quadrato) la sua sarà fumante
+                        (quadrato) la mangia
+(rombo) la mangia tutta?->
+                        (vero) sei sazio fratello
+                        (falso) 
+                        (rombo)
+                        ti ricori di metterla in frigo?
+                        (vero) conservata
+                        (falso) va a male come l'ultima volta
+
+
+----------------------------------------------
+
+(rombo) la mangia tutta?->
+                        (vero) sei sazio fratello
+                        (falso) 
+                        (quadrato) conservi la pizza
